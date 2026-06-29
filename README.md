@@ -1,5 +1,6 @@
 Cloud Storage Explorer
 Intern Details
+
 •	Intern ID: CITS4540
 •	Full Name: SHANKER A
 •	No. of Weeks: 4
